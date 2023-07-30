@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+  background-color: #3194FF;
+}
+
+.Laden_Bild {
+  background-color: gray;
+  position: absolute;
+  box-shadow: 5px 5px 5px black;
+  top: 200px;
+  left: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+.Laden_Button {
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 4em;
+  font-family: 'Helvetica Neue';
+  text-align: center;
+  border-radius: 25px;
+  color: black;
+  background-color: white;
+  box-shadow: 5px 5px 5px black;
+  position: absolute;
+  top: 610px;
+  left: 8px;
+  width: 480px;
+  height: 85px;
+}
+
+
+.Lager_Bild {
+  background-color: gray;
+  position: absolute;
+  box-shadow: 5px 5px 5px black;
+  top: 200px;
+  left: 1080px;
+  width: 500px;
+  height: 500px;
+}
+
+.Lager_Button {
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 4em;
+  font-family: 'Helvetica Neue';
+  text-align: center;
+  border-radius: 25px;
+  color: black;
+  background-color: white;
+  box-shadow: 5px 5px 5px black;
+  position: absolute;
+  top: 610px;
+  left: 15px;
+  width: 480px;
+  height: 85px; 
+}

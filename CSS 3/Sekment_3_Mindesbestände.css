@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media screen and (orientation: portrait) {
+	
+	body {
+		background-color: #3194ff;
+	}
+	
+	
+	h1 {
+		display: flex;
+		font-size: 100px;
+		font-family: "Arial Black";
+		color: rgb(255, 255, 255);
+		text-align: center;
+		position: absolute;
+		left: 125px;
+		top: 300px;
+		width: 545px;
+		height: 75;
+		z-index: 1;
+	}
+	
+	
+	
+	
+	.Sekment_3_Mindesbesteande {
+		border-width: 1px;
+		border-color: rgb(0, 0, 0);
+		border-style: solid;
+		border-radius: 52px;
+		background-color: rgb(255, 255, 255);
+		position: absolute;
+		left: 95px;
+		top: 800px;
+		width: 963px;
+		height: 1538px;
+		z-index: 2;
+	}
+	
+}

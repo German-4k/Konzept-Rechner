@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@media screen and (orientation: portrait) {
+
+
+body {
+	background-color: #3194ff;
+}
+
+
+.Nav_icen {
+  position: absolute;
+  left: 85px;
+  top: 85px;
+  width: 99px;
+  height: 68px;
+  z-index: 10;
+}
+
+
+h1 {
+  font-size: 115px;
+  font-family: "Arial Black";
+  color: rgb(255, 255, 255);
+  line-height: 0.826;
+  text-align: center;
+  position: absolute;
+  left: 95px;
+  top: 530.331px;
+  width: 986px;
+  height: 106px;
+  z-index: 3;
+}
+	
+	.Logo_Hintergund{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 195px;
+  top: 925px;
+  width: 764px;
+  height: 764px;
+  z-index: 4;
+}
+
+	
+	
+	
+	.Logo_Regal {
+  position: absolute;
+  left: 330px;
+  top: 1035px;
+  width: 485px;
+  height: 541px;
+  z-index: 13;
+}
+
+	
+	
+	h3 {
+  font-size: 100px;
+  font-family: "Arial Black";
+  color: rgb(255, 255, 255);
+  line-height: 0.95;
+  text-align: center;
+  position: absolute;
+  left: 355px;
+  top: 1781.201px;
+  width: 394px;
+  height: 74px;
+  z-index: 5;
+}
+
+
+
+.Version_Nr {
+  font-size: 75px;
+  font-family: "Arial Black";
+  color: rgb(255, 255, 255);
+  line-height: 1.267;
+  text-align: center;
+  position: absolute;
+  left: 415px;
+  top: 1958.651px;
+  width: 273px;
+  height: 56px;
+  z-index: 6;
+}
+
+}
+
+	
+	

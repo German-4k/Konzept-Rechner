@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS-Ducument */
+
+@media screen and (orientation: landscape) {
+
+
+
+        body {
+           background-color: #3194ff;
+        }
+
+
+       .Schrift_Hintergrund {
+         box-shadow: 5px 5px 5px black;
+         font-family: 'Helvetica Neue';
+         font-size: 4.5em;
+         text-align: center;
+         border-radius: 10px;
+         background-color: white;
+         position: absolute;
+         top: 50px;
+         left: 550px;
+         height: 95px;
+         width: 880px;
+         z-index: 1;
+       }
+
+
+
+       .input_feld_name {
+         font-family: 'Helvetica Neue';
+         box-shadow: 5px 5px 5px black;
+         text-align: center;
+         font-size: 4em;
+         border-radius: 10px;
+         background-color: white;
+         position: absolute;
+         top: 750px;
+         left: 620px;
+         height: 75px;
+         width: 700px;
+         z-index: 3;
+       }
+
+
+       .Button_Weiter {
+        box-shadow: 5px 5px 5px black;
+        text-decoration: none;
+        font-family: 'Helvetica Neue';
+        font-size: 4em;
+        text-align: center;
+        color: black;
+        border-radius: 20px;
+        background-color: white;
+        position: absolute;
+        top: 765px;
+        left: 1450px;
+        height: 55px;
+        width: 232px;
+        z-index: 4;
+       }
+
+       .Button_Zureuck {
+        box-shadow: 5px 5px 5px black;
+        text-decoration: none;
+        font-family: 'Helvetice Neue';
+        font-size: 4em;
+        text-align: center;
+        color: black;
+        border-radius: 20px;
+        background-color: white;
+        position: absolute;
+        top: 765px;
+        left: 265px;
+        height: 55px;
+        width: 232px;
+        Z-index: 5;
+       }
+                  
+
+}

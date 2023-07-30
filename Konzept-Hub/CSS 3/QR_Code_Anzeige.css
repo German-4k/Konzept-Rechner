@@ -1,0 +1,139 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@media screen and (orientation: landscape) {
+       
+    
+    
+        body {
+            background-color: #3194ff;
+        }
+
+
+        .h1_0 {
+                font-size: 6em;
+                font-family: 'Helevetica Neue';
+                color: black;
+                text-align: center;
+                position: absolute;
+                left: 170px;
+                top: 230px;
+                width: 750px;
+                height: 80px;
+                z-index: 1;
+              }
+
+
+
+        .h1_1 {
+                font-size: 6em;
+                font-family: 'Helevetica Neue';
+                color: black;
+                text-align: center;
+                position: absolute;
+                left: 1430px;
+                top: 230px;
+                width: 930px;
+                height: 80px;
+                z-index: 2;
+              }
+
+
+        
+        .Weisser_kasten_links {
+                box-shadow: 5px 5px 5px black;
+                border-width: 1px;
+                border-color: black;
+                border-style: solid;
+                background-color: white;
+                position: absolute;
+                left: 126px;
+                top: 480px;
+                width: 808px;
+                height: 964px;
+                z-index: 3;
+              }
+        
+
+        .Weisser_kasten_rechts {
+                box-shadow: 5px 5px 5px black;
+                border-width: 1px;
+                border-color: black;
+                border-style: solid;
+                background-color: rgb(255, 255, 255);
+                position: absolute;
+                left: 1600px;
+                top: 630px;
+                width: 600px;
+                height: 600px;
+                z-index: 4;
+            }
+
+            .Sekment_1 {
+                font-size: 6.5em;
+                font-family: 'Helvetica Neue';
+                text-align: center;
+                color: red;
+                position: absolute;
+                left: 300px;
+                top: 550px;
+                width: 440px;
+                height: 76px;
+                z-index: 5;
+            }
+
+            .Sekment_2 {
+                font-size: 6.5em;
+                font-family: 'Helvetica Neue';
+                text-align: center;
+                color: red;
+                position: absolute;
+                left: 300px;
+                top: 750px;
+                width: 440px;
+                height: 76px;
+                z-index: 6;
+            }
+
+            .Sekment_3 {
+                font-size: 6.5em;
+                font-family: 'Helvetica Neue';
+                text-align: center;
+                color: red;
+                position: absolute;
+                left: 300px;
+                top: 950px;
+                width: 440px;
+                height: 76px;
+                z-index: 7;
+            }
+
+            .Sekment_4 {
+                font-size: 6.5em;
+                font-family: 'Helvetica Neue';
+                text-align: center;
+                color: red;
+                position: absolute;
+                left: 300px;
+                top: 1150px;
+                width: 440px;
+                height: 76px;
+                z-index: 8;
+            }
+
+            .Sekment_5 {
+                font-size: 6.5em;
+                font-family: 'Helvetica Neue';
+                text-align: center;
+                color: red;
+                position: absolute;
+                left: 300px;
+                top: 1350px;
+                width: 440px;
+                height: 76px;
+                z-index: 9;
+            }
+
+
+    }

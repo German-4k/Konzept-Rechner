@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media screen and (orientation: portrait) {
+	
+	
+	body {
+		background-color: #3194ff;
+	}
+	
+	
+	h1 {
+      	font-size: 90px;
+      	font-family: "Arial Black";
+      	color: rgb(255, 255, 255);
+      	line-height: 0.95;
+      	text-align: center;
+      	position: absolute;
+      	left: 65px;
+      	top: 551.201px;
+      	width: 1013px;
+      	height: 92px;
+      	z-index: 1;
+   }
+	
+	
+	.Normal_Feld {
+  		border-width: 1px;
+  		border-color: rgb(0, 0, 0);
+  		border-style: solid;
+  		border-radius: 52px;
+  		background-color: rgb(255, 255, 255);
+  		position: absolute;
+  		left: 80px;
+  		top: 950px;
+  		width: 963px;
+  		height: 319px;
+  		z-index: 2;
+	}
+
+	.Normal {
+		text-decoration: none;
+  		font-size: 85px;
+  		font-family: "Arial Black";
+  		color: rgb(0, 0, 0);
+  		line-height: 1.118;
+  		text-align: center;
+  		position: absolute;
+  		left: 78px;
+  		top: 1065px;
+  		width: 955px;
+  		height: 63px;
+  		z-index: 3;
+	}
+	
+	
+	.Spiegel_Verkehrt_Feld {
+  		border-width: 1px;
+  		border-color: rgb(0, 0, 0);
+  		border-style: solid;
+  		border-radius: 52px;
+  		background-color: rgb(255, 255, 255);
+  		position: absolute;
+  		left: 80px;
+  		top: 1430px;
+  		width: 963px;
+  		height: 319px;
+  		z-index: 4;
+	}
+	
+	
+	
+	.Spiegel_Verkehrt {
+		text-decoration: none;
+  		font-size: 85px;
+  		font-family: "Arial Black";
+  		color: rgb(0, 0, 0);
+  		line-height: 1.118;
+  		text-align: center;
+  		position: absolute;
+  		left: 78px;
+  		top: 1539.071px;
+  		width: 955px;
+  		height: 80px;
+  		z-index: 5;
+	}
+	
+	
+	
+}

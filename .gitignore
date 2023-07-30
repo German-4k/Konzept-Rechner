@@ -1,6 +1,9 @@
-/PSD-Presentation
-./../Adobe XD - iPhone
-./../Konzept-Hub/Adobe XD - Mac
-./../Konzept-Hub/Artikel
-./../Konzept-Hub/PSD
-./../Konzept-Hub/PSD-Übersicht
+/PSD-Presentation/
+/Adobe XD - iPhone/
+/Konzept-Hub/Adobe XD - Mac/
+/Konzept-Hub/Artikel/
+/Konzept-Hub/PSD/
+/Konzept-Hub/PSD-Übersicht/
+/node_modules/
+/package-lock.json
+/package.json

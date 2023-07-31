@@ -34,7 +34,7 @@ h1 {
   z-index: 3;
 }
 	
-	.Logo_Hintergund{
+	.logo-rega {
   border-width: 1px;
   border-color: rgb(0, 0, 0);
   border-style: solid;
@@ -51,7 +51,7 @@ h1 {
 	
 	
 	
-	.Logo_Regal {
+	.logo-rega {
   position: absolute;
   left: 330px;
   top: 1035px;
@@ -78,7 +78,7 @@ h1 {
 
 
 
-.Version_Nr {
+.Version-Nr {
   font-size: 75px;
   font-family: "Arial Black";
   color: rgb(255, 255, 255);

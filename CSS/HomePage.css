@@ -24,17 +24,17 @@ h1 {
   font-size: 115px;
   font-family: "Arial Black";
   color: rgb(255, 255, 255);
-  line-height: 0.826;
+  line-height: 1.267;
   text-align: center;
   position: absolute;
   left: 95px;
-  top: 530.331px;
+  top: 400px;
   width: 986px;
   height: 106px;
   z-index: 3;
 }
 	
-	.logo-rega {
+	.logo-background {
   border-width: 1px;
   border-color: rgb(0, 0, 0);
   border-style: solid;
